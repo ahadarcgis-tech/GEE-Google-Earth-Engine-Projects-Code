@@ -1,3 +1,5 @@
+// Use a AOI as a Study area as an asset or create own geometry  prior to running this code 
+
 var no2 = ee.ImageCollection("COPERNICUS/S5P/OFFL/L3_NO2")
 
 var image = no2
